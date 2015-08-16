@@ -1,5 +1,8 @@
 # Compton-Credits-Guide
+
 A comprehensive guide to everyone credited on Dr. Dre's third and final studio album.
+
+### <a href="http://matthewball.me/compton">View Guide</a>
 
 <em>Compton</em> (also known as <em>Compton: A Soundtrack by Dr. Dre</em>) is the third and final studio album from self-made corporate billionaire and hip-hop recording artist Dr. Dre. This highly anticipated release was put together throughout the filming of the critically acclaimed movie, Straight Outta Compton.
 
@@ -11,4 +14,4 @@ Enjoy!
 
 <hr>
 
-Notice: This guide is still under development...
+Notice: <a href="http://matthewball.me/compton">This guide</a> is still under development...
