@@ -15,3 +15,9 @@ Enjoy!
 <hr>
 
 Notice: <a href="http://matthewball.me/compton">This guide</a> is still under development...
+
+# License
+
+Copyright (c) 2015 Matthew Ball
+
+#
